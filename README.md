@@ -25,7 +25,7 @@ SQLite, porque funciona directamente dentro de la aplicación.
 
 9.¿Qué significa SQL?
 SQL (Structured Query Language) es el lenguaje utilizado para consultar y manipular bases de datos relacionales:
-Elementos de un sistema basado en bases de datos relacionales
+10.Elementos de un sistema basado en bases de datos relacionales
 Base de datos
 Motor de base de datos
 Aplicaciones
